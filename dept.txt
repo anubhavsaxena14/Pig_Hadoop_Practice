@@ -1,0 +1,4 @@
+1	HR	Jaipur
+2	Sales	Jodhpur	
+3	IT	Delhi
+4	Operations	Bikaner
