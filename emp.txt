@@ -1,0 +1,11 @@
+1.	Popo	20000	1	Executive	01/01/2000
+2.	Koko	18000	2	SalesMan	03/05/2002
+3.	Yoyo	31000	1	Manager	02/06/2001		
+4.	Yappi	30000	2	Admin	11/10/2000		
+5.	Jojo	25000	2	Executive	04/07/2002
+6.	Jas	28000	1	SalesMan	08/10/2001
+7.	Joe	19000	3	SalesMan	10/08/2005
+8.	Nimo	22000	3	Executive	03/08/2002
+9.	Rumi	27000	3	Executive	09/07/2001
+10.	Tobi	20000	1	SalesMan	05/08/2000	
+11.	Nonu	40000		Manager	03/08/2000	
